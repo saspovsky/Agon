@@ -1,0 +1,17 @@
+.layout {
+   display: grid;
+   grid-template-rows: 100px 1fr 100px;
+   height: 100vh;
+}
+
+.header {
+   background-color: pink;
+}
+
+.main {
+   background-color: orange;
+}
+
+.footer {
+   background-color: green;
+}
